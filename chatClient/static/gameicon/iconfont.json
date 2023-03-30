@@ -1,0 +1,16 @@
+{
+  "id": "3986377",
+  "name": "游戏tu'biao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34809728",
+      "name": "game",
+      "font_class": "game",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
